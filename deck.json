@@ -200,13 +200,19 @@
             "starthands": 4,
             "startdiscards": 3,
             "enemyhp":1,
-            "finisherfield":8
+            "enemyscaling":1,
+            "finisherfield":8,
+            "invslots":5,
+            "consumableslots":2
         },
         "tickets": {
             "starttickets": 4,
+            "rerollcost":5,
             "interestcap": 5,
+            "interest":1,
             "ticketsperhand": 1,
-            "ticketsperdiscards": 0
+            "ticketsperdiscards": 0,
+            "costperdiscard":0
         },
         "misc":{
             "balance?":0
