@@ -1,18 +1,23 @@
 {
     "regular honey": {
-        "name":"Regular Honey",
-        "description":"No changes. Base difficulty.",
-        "enemyscaling":1,
-        "nomoneyenemies":[0],
-        "startticketsdebuff":0,
-        "rerollcostbuff":0
+        "name": "Regular Honey",
+        "description": "No changes. Base difficulty.",
+        "enemyscaling": 1,
+        "nomoneyenemies": [
+            0
+        ],
+        "startticketsdebuff": 0,
+        "rerollcostbuff": 0
     },
-    "acacia honey":{
-        "name":"Acacia Honey",
-        "description":"First and second enemy of each field no longer award tickets.",
-        "enemyscaling":1,
-        "nomoneyenemies":[1,2],
-        "startticketsdebuff":0,
-        "rerollcostbuff":0
+    "acacia honey": {
+        "name": "Acacia Honey",
+        "description": "First and second enemy of each field no longer award tickets.",
+        "enemyscaling": 1,
+        "nomoneyenemies": [
+            1,
+            2
+        ],
+        "startticketsdebuff": 0,
+        "rerollcostbuff": 0
     }
 }
