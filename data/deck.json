@@ -1,7 +1,7 @@
 {
-    "deck": {
-        "name": "red deck",
-        "description": "awesome red deck",
+    "reddeck": {
+        "name": "Red Deck",
+        "description": "Awesome deck",
         "cards": [
             [
                 2,
